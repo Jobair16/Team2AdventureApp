@@ -19,4 +19,3 @@ Far vision can have multiple goals in-line with the product. Below are some of t
 2. The adventurers can act as guides to the enthusiasts and provide recommendations about the adventures they did.
 3. A section shall be provided for the adventurers to create posts or attach any media. The most viewed posts shall appear in the trending list.
 4. Third-party businesses including adventure equipment sellers, hotels and commute facilitators (flight, trains, tour buses) shall advertise in the web application.
-
