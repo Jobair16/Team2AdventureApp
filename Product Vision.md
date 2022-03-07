@@ -13,8 +13,8 @@ According to the PMI, stakeholders refer to individuals, groups and organization
 ## Near Vision (related to MVP): 
 Bring together and help connect all the adventurers of the planet and give an experience of finding a perfect co-adventurer as rip-roaring as the adventure itself.
 
-##Far Vision: 
-Far vision can have multiple goals in line with the product and following:
+## Far Vision: 
+Far vision can have multiple goals in-line with the product. Below are some of the aspects of our far vision:
 1. The team shall create a platform where like-minded adventurers can group up and go on adventures.
 2. The adventurers can act as guides to the enthusiasts and provide recommendations about the adventures they did.
 3. A section shall be provided for the adventurers to create posts or attach any media. The most viewed posts shall appear in the trending list.
