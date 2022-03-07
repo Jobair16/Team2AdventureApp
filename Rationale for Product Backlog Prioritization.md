@@ -7,5 +7,3 @@ We added the backlog items of the development phase into a sprint in order to al
 
 # Note: 
 Our user stories are documented based on the prioritization that we performed in this product backlog.
-
-![image](https://user-images.githubusercontent.com/59045223/156959261-412cf6fd-c4f4-4a2e-8ba6-a36300ad50ce.png)
