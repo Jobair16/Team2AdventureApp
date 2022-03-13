@@ -4,7 +4,7 @@ In Sprint 1, our team shall complete '32 story points' comprising of eight backl
 
 - The Web Application has Single Sign-On login page. The Database encrypts the User Data.
 - Users shall be able to create, edit and delete the profile and the profile picture.
-- The Web Application allows users to connect their profiles to Instagram and Facebook.
+- The Web Application allows users to connect their profiles to Instagram, Twitter and Facebook.
 - The Web Application collects user details such as: type of adventures the user is interested in, user's skill level, preferences, and attitude.
 
 ### Rationale behind the forecast:-
