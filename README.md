@@ -6,4 +6,4 @@ Name and Roster
 3. Kavya Vallapureddy, Ebot Tabi, and Santhiya Subramanian - Development Team
 
 
-Project Management Tool Jira Link: https://emergingteam2.atlassian.net/jira/software/projects/EM/boards/1 (We added the professor's email to our project; thus, the project shall be accessible by the professor)
+Project Management Tool Jira Link: https://emergingteam2.atlassian.net/jira/software/projects/TEAM2/boards/1 (We added the professor's email to our project; thus, the project shall be accessible by the professor)
